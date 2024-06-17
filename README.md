@@ -66,31 +66,23 @@ To install those package open the terminal or command line and paste the code fr
 ```
 pip install opencv-contrib-python
 ```
-
 ```
 pip install numpy
 ```
-
 ```
 pip install pandas
 ```
-
 ```
 pip install Pillow
 ```
-
 ```
 pip install pytest-shutil
 ```
-
 ```
 pip install python-csv
 ```
-
 ```
 pip install yagmail
-```
-
 ```
 
 [ **Notice: During the package installization, sometime it shows some error, to avoid those error you can install those packages as admin. ]
@@ -99,7 +91,6 @@ Test Run
 -----------------------
 After creating the enviroment and installing the packages, open the IDE terminal/command line to run the program. Using the code below.
 
-```
 ```
 python main.py
 ```
